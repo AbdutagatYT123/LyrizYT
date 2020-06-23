@@ -1,0 +1,16 @@
+body {color:red;	
+	background: url("file:///C:/Users/User/Desktop/08c2ce08464dca6f00f5d82358c53911.png")
+	background-repeat: no-repeat;
+	background-size: cover;}
+
+p {
+	font-size: 50px;
+}
+
+h1 {
+	color:blue;
+	font-size: 100px;
+}
+
+#good {color:green;
+}
